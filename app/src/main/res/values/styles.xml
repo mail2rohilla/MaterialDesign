@@ -1,0 +1,28 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyCustomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary">#d6f599</item>
+        <item name="android:textColorSecondary">#61E294</item>
+    </style>
+
+    <style name="MyTabTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textColorSecondary">#ffcc</item>
+        <item name="android:textColorPrimary">#61E294</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
