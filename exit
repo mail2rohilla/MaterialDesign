@@ -1,0 +1,49 @@
+[33mcommit b211252ae9265a6e0974fa7c50f6ef9ff9e85f84[m
+Merge: 4982934 3adb5fd
+Author: Deepanshu <deepu@deepu.com>
+Date:   Sun Dec 31 00:45:02 2017 +0530
+
+    merging master to new_local_branch
+    Merge branch 'master' into new_local_branch_2
+
+[33mcommit 3adb5fd59e0ca502e826ca552eb3d0f7ec26217c[m
+Author: Deepanshu <deepu@deepu.com>
+Date:   Sat Dec 30 16:59:30 2017 +0530
+
+    commit eeryting
+
+[33mcommit 4982934b080e8b2e75b1913b63ccde50cc4d40cf[m
+Author: Deepanshu <deepu@deepu.com>
+Date:   Sat Dec 30 16:37:45 2017 +0530
+
+    new commit for fresh change
+
+[33mcommit a2cc0e5e3fda7f96d7cae768f47a75a473470359[m
+Author: Deepanshu <deepu@deepu.com>
+Date:   Sat Dec 30 16:36:23 2017 +0530
+
+    in branch2 file 2 change
+
+[33mcommit 18568a5fb076df8f56cb598a27d958d44cddb3a0[m
+Author: Deepanshu <deepu@deepu.com>
+Date:   Sat Dec 30 15:59:34 2017 +0530
+
+    new photo added
+
+[33mcommit 2ec02970060a7567016f3da2422b3eb01dce7674[m
+Author: Deepanshu <deepu@deepu.com>
+Date:   Sat Dec 30 12:08:45 2017 +0530
+
+    commit for file1
+
+[33mcommit f1f8d11044fd63a3d60a7352b24c28355420d680[m
+Author: Deepu Rohilla <you@example.com>
+Date:   Thu Dec 28 18:13:13 2017 +0530
+
+    commiting file1
+
+[33mcommit 6552a543cd26446575a7f7c6d132ef11262cbc7d[m
+Author: mail2rohilla <mail2rohilla@gmail.com>
+Date:   Mon Jul 25 18:12:04 2016 -0700
+
+    Initial commit
